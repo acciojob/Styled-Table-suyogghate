@@ -1,1 +1,45 @@
 /* your code */
+body{
+    margin: 1.5em;
+}
+table{
+    width: 800px;
+    height: 200px;
+    /* border-radius: 5px; */
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+}
+
+.table-heading{
+    background-color: #3A5BA0;
+    /* border-radius: 5px; */
+}
+
+.table{
+    text-align: left;
+    /* background-color: #3A5BA0; */
+    color: white;
+    border-spacing: 0;
+}
+
+.second-row{
+    background-color: #E0DECA;
+    /* border-radius: 5px; */
+}
+
+.fourth-row{
+    background-color: #E0DECA;
+}
+
+tbody{
+    color: black;
+}
+
+td, th{
+    padding: 5px 100px 5px 5px;
+    padding: 1em;
+  /* background: #ddd; */
+  border-bottom: 2px solid white;
+}
+
